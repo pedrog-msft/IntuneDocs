@@ -73,6 +73,8 @@ As an Intune administrator, you can create and assign email settings to the foll
   - **Contacts**
   - **Calendar**
   - **Tasks**
+  
+    **NOTE**: Be aware that the option "Not Configured" for the Email Profile settings is equal to "Disable".
 
 ## Android Enterprise
 
